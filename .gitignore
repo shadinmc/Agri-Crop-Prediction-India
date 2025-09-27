@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+*.csv  # If CSVs are too large
+*.ipynb_checkpoints/
+
 # C extensions
 *.so
 
