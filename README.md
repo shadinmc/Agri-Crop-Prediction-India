@@ -24,3 +24,9 @@ This project analyzes Indian crop production data (2001-2014) from multiple data
 1. **Clone the Repo**:
    ```bash
    git clone https://github.com/YOUR_USERNAME/Agriculture-Crop-Prediction-India.git
+
+## Data Preparation
+- Loaded 5 CSVs: production, yields, costs, indices, varieties.
+- Cleaned: Transposed produce.csv, melted datafile.csv, handled NAs/outliers.
+- Merged costs and varieties for analysis.
+- Saved cleaned data to data/cleaned_data.csv.
