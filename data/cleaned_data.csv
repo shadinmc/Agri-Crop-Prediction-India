@@ -1,50 +1,187 @@
 Crop,State,Cost of Cultivation (`/Hectare) A2+FL,Cost of Cultivation (`/Hectare) C2,Cost of Production (`/Quintal) C2,Yield (Quintal/ Hectare),Variety,Season_duration,Recommended_Zone
-ARHAR,Uttar Pradesh,9794.05,23076.74,1941.55,9.83,,,
-ARHAR,Karnataka,10593.15,16528.68,2172.46,7.47,,,
-ARHAR,Gujarat,13468.82,19551.9,1898.3,9.59,,,
-ARHAR,Andhra Pradesh,17051.66,24171.65,3670.54,6.42,,,
-ARHAR,Maharashtra,17130.55,25270.26,2775.8,8.72,,,
-COTTON,Maharashtra,23711.44,33116.82,2539.47,12.69,,,
-COTTON,Punjab,29047.1,50828.83,2003.76,24.39,,,
-COTTON,Andhra Pradesh,29140.77,44756.72,2509.99,17.83,,,
-COTTON,Gujarat,29616.09,42070.44,2179.26,19.05,,,
-COTTON,Haryana,29918.97,44018.18,2127.35,19.9,,,
-GRAM,Rajasthan,8552.69,12610.85,1691.66,6.83,,,
-GRAM,Madhya Pradesh,9803.89,16873.17,1551.94,10.29,,,
-GRAM,Uttar Pradesh,12833.04,21618.43,1882.68,10.93,,,
-GRAM,Maharashtra,12985.95,18679.33,2277.68,8.05,,,
-GRAM,Andhra Pradesh,14421.98,26762.09,1559.04,16.69,,,
-GROUNDNUT,Karnataka,13647.1,17314.2,3484.01,4.71,,,
-GROUNDNUT,Andhra Pradesh,21229.01,30434.61,2554.91,11.97,,,
-GROUNDNUT,Tamil Nadu,22507.86,30393.66,2358.0,11.98,,,
-GROUNDNUT,Gujarat,22951.28,30114.45,1918.92,13.45,,,
-GROUNDNUT,Maharashtra,26078.66,32683.46,3207.35,9.33,,,
-MAIZE,Bihar,13513.92,19857.7,404.43,42.95,,,
-MAIZE,Karnataka,13792.85,20671.54,581.69,31.1,,,
-MAIZE,Rajasthan,14421.46,19810.29,658.77,23.56,,,
-MAIZE,Uttar Pradesh,15635.43,21045.11,1387.36,13.7,,,
-MAIZE,Andhra Pradesh,25687.09,37801.85,840.58,42.68,,,
-MOONG,Orissa,5483.54,8266.98,2614.14,3.01,,,
-MOONG,Rajasthan,6204.23,9165.59,2068.67,4.05,,,
-MOONG,Karnataka,6440.64,7868.64,5777.48,1.32,,,
-MOONG,Andhra Pradesh,6684.18,13209.32,2228.97,5.9,,,
-MOONG,Maharashtra,10780.76,15371.45,2261.24,6.7,,,
-PADDY,Uttar Pradesh,17022.0,28144.5,732.62,36.61,,,
-PADDY,Orissa,17478.05,25909.05,715.04,32.42,,,
-PADDY,West Bengal,24731.06,33046.12,731.25,39.04,,,
-PADDY,Punjab,25154.75,45291.24,669.86,67.41,,,
-PADDY,Andhra Pradesh,29664.84,46450.2,789.9,56.0,,,
-RAPESEED AND MUSTARD,Madhya Pradesh,8686.43,17705.93,1279.6,12.94,,,
-RAPESEED AND MUSTARD,Rajasthan,11385.7,19259.84,1341.29,13.54,,,
-RAPESEED AND MUSTARD,Uttar Pradesh,12774.41,22560.3,1595.56,13.57,,,
-RAPESEED AND MUSTARD,Gujarat,13740.64,19083.55,1610.4,11.61,,,
-RAPESEED AND MUSTARD,Haryana,14715.27,27507.54,1251.12,19.94,,,
-SUGARCANE,Uttar Pradesh,24538.32,45239.51,93.64,448.89,,,
-SUGARCANE,Karnataka,55655.44,86765.77,86.53,986.21,,,
-SUGARCANE,Andhra Pradesh,56621.16,91442.63,119.72,757.92,,,
-SUGARCANE,Maharashtra,57673.6,85801.95,107.56,744.01,,,
-SUGARCANE,Tamil Nadu,66335.06,89025.27,85.79,1015.45,,,
-WHEAT,Madhya Pradesh,12464.4,22489.75,810.25,23.59,,,
-WHEAT,Punjab,17945.58,35423.48,804.8,39.83,,,
-WHEAT,Uttar Pradesh,18979.38,31902.74,769.84,34.99,,,
-WHEAT,Rajasthan,19119.08,29876.36,683.58,37.19,,,
+Pigeon Pea,Uttar Pradesh,9794.05,23076.74,1941.55,9.83,Unknown,NotSpecified,Unspecified
+Pigeon Pea,Karnataka,10593.15,16528.68,2172.46,7.47,Unknown,NotSpecified,Unspecified
+Pigeon Pea,Gujarat,13468.82,19551.9,1898.3,9.59,Unknown,NotSpecified,Unspecified
+Pigeon Pea,Andhra Pradesh,17051.66,24171.65,3670.54,6.42,Unknown,NotSpecified,Unspecified
+Pigeon Pea,Maharashtra,17130.55,25270.26,2775.8,8.72,Unknown,NotSpecified,Unspecified
+Cotton,Maharashtra,23711.44,33116.82,2539.47,12.69,CNH012,165,"Gujarat, Maharashtra and Madhya Pradesh."
+Cotton,Maharashtra,23711.44,33116.82,2539.47,12.69,CICR-3 (CISA 614),150,"Punjab, Haryana and Uttar Pradesh under wilt free area."
+Cotton,Maharashtra,23711.44,33116.82,2539.47,12.69,VBCH 2231,NotSpecified,"Maharashtra, Gujarat, Madhya Pradesh and Orissa under rainfed conditions."
+Cotton,Punjab,29047.1,50828.83,2003.76,24.39,CNH012,165,"Gujarat, Maharashtra and Madhya Pradesh."
+Cotton,Punjab,29047.1,50828.83,2003.76,24.39,CICR-3 (CISA 614),150,"Punjab, Haryana and Uttar Pradesh under wilt free area."
+Cotton,Punjab,29047.1,50828.83,2003.76,24.39,VBCH 2231,NotSpecified,"Maharashtra, Gujarat, Madhya Pradesh and Orissa under rainfed conditions."
+Cotton,Andhra Pradesh,29140.77,44756.72,2509.99,17.83,CNH012,165,"Gujarat, Maharashtra and Madhya Pradesh."
+Cotton,Andhra Pradesh,29140.77,44756.72,2509.99,17.83,CICR-3 (CISA 614),150,"Punjab, Haryana and Uttar Pradesh under wilt free area."
+Cotton,Andhra Pradesh,29140.77,44756.72,2509.99,17.83,VBCH 2231,NotSpecified,"Maharashtra, Gujarat, Madhya Pradesh and Orissa under rainfed conditions."
+Cotton,Gujarat,29616.09,42070.44,2179.26,19.05,CNH012,165,"Gujarat, Maharashtra and Madhya Pradesh."
+Cotton,Gujarat,29616.09,42070.44,2179.26,19.05,CICR-3 (CISA 614),150,"Punjab, Haryana and Uttar Pradesh under wilt free area."
+Cotton,Gujarat,29616.09,42070.44,2179.26,19.05,VBCH 2231,NotSpecified,"Maharashtra, Gujarat, Madhya Pradesh and Orissa under rainfed conditions."
+Cotton,Haryana,29918.97,44018.18,2127.35,19.9,CNH012,165,"Gujarat, Maharashtra and Madhya Pradesh."
+Cotton,Haryana,29918.97,44018.18,2127.35,19.9,CICR-3 (CISA 614),150,"Punjab, Haryana and Uttar Pradesh under wilt free area."
+Cotton,Haryana,29918.97,44018.18,2127.35,19.9,VBCH 2231,NotSpecified,"Maharashtra, Gujarat, Madhya Pradesh and Orissa under rainfed conditions."
+Chickpea,Rajasthan,8552.69,12610.85,1691.66,6.83,Unknown,NotSpecified,Unspecified
+Chickpea,Madhya Pradesh,9803.89,16873.17,1551.94,10.29,Unknown,NotSpecified,Unspecified
+Chickpea,Uttar Pradesh,12833.04,21618.43,1882.68,10.93,Unknown,NotSpecified,Unspecified
+Chickpea,Maharashtra,12985.95,18679.33,2277.68,8.05,Unknown,NotSpecified,Unspecified
+Chickpea,Andhra Pradesh,14421.98,26762.09,1559.04,16.69,Unknown,NotSpecified,Unspecified
+Groundnut,Karnataka,13647.1,17314.2,3484.01,4.71,Girnar - 3 (PBS 12160),108,"West Bengal, Orissa and Manipur under Kharif rainfed condition."
+Groundnut,Karnataka,13647.1,17314.2,3484.01,4.71,Kadiri Harithandhra (K 1319),122,Karnataka and Maharashtra under timely sown irrigated condition in Rabi and Summer season.
+Groundnut,Karnataka,13647.1,17314.2,3484.01,4.71,GPBD 5,105-110,Jharkhand and Manipur in Kharif Season.
+Groundnut,Andhra Pradesh,21229.01,30434.61,2554.91,11.97,Girnar - 3 (PBS 12160),108,"West Bengal, Orissa and Manipur under Kharif rainfed condition."
+Groundnut,Andhra Pradesh,21229.01,30434.61,2554.91,11.97,Kadiri Harithandhra (K 1319),122,Karnataka and Maharashtra under timely sown irrigated condition in Rabi and Summer season.
+Groundnut,Andhra Pradesh,21229.01,30434.61,2554.91,11.97,GPBD 5,105-110,Jharkhand and Manipur in Kharif Season.
+Groundnut,Tamil Nadu,22507.86,30393.66,2358.0,11.98,Girnar - 3 (PBS 12160),108,"West Bengal, Orissa and Manipur under Kharif rainfed condition."
+Groundnut,Tamil Nadu,22507.86,30393.66,2358.0,11.98,Kadiri Harithandhra (K 1319),122,Karnataka and Maharashtra under timely sown irrigated condition in Rabi and Summer season.
+Groundnut,Tamil Nadu,22507.86,30393.66,2358.0,11.98,GPBD 5,105-110,Jharkhand and Manipur in Kharif Season.
+Groundnut,Gujarat,22951.28,30114.45,1918.92,13.45,Girnar - 3 (PBS 12160),108,"West Bengal, Orissa and Manipur under Kharif rainfed condition."
+Groundnut,Gujarat,22951.28,30114.45,1918.92,13.45,Kadiri Harithandhra (K 1319),122,Karnataka and Maharashtra under timely sown irrigated condition in Rabi and Summer season.
+Groundnut,Gujarat,22951.28,30114.45,1918.92,13.45,GPBD 5,105-110,Jharkhand and Manipur in Kharif Season.
+Groundnut,Maharashtra,26078.66,32683.46,3207.35,9.33,Girnar - 3 (PBS 12160),108,"West Bengal, Orissa and Manipur under Kharif rainfed condition."
+Groundnut,Maharashtra,26078.66,32683.46,3207.35,9.33,Kadiri Harithandhra (K 1319),122,Karnataka and Maharashtra under timely sown irrigated condition in Rabi and Summer season.
+Groundnut,Maharashtra,26078.66,32683.46,3207.35,9.33,GPBD 5,105-110,Jharkhand and Manipur in Kharif Season.
+Maize,Bihar,13513.92,19857.7,404.43,42.95,HSC1,80-82,Himachal Pradesh and Uttarakhand under Kharif season.
+Maize,Bihar,13513.92,19857.7,404.43,42.95,HQPM-4,95,"Punjab, Haryana, Delhi, West and Central UP, Bihar, Jharkhand, Orissa, Eastern UP, Andhra Pradesh, Karnataka, Tamilnadu, Maharashtra, Rajasthan, Madhya Pradesh, Gujarat and Chhattisgarh under Kharif Season."
+Maize,Bihar,13513.92,19857.7,404.43,42.95,MCH 36 (Hybrid) (DKC 9099),99,"Karnataka, Tamil Nadu and Maharashtra in Kharif season under irrigated and rainfed conditions."
+Maize,Bihar,13513.92,19857.7,404.43,42.95,DHM 119 (BH 4062),NotSpecified,"Andhra Pradesh, Maharashtra, Tamil Nadu and Karnataka in Kharif season."
+Maize,Bihar,13513.92,19857.7,404.43,42.95,PMH 4 (JH 31153),NotSpecified,"Punjab, Haryana, Delhi and western Uttar Pradesh under irrigated condition."
+Maize,Bihar,13513.92,19857.7,404.43,42.95,PMH 5 (JH 3110),NotSpecified,"Rajasthan, Madhya Pradesh, Gujarat and Chhattisgarh in Kharif season under both irrigated and rainfed condition."
+Maize,Karnataka,13792.85,20671.54,581.69,31.1,HSC1,80-82,Himachal Pradesh and Uttarakhand under Kharif season.
+Maize,Karnataka,13792.85,20671.54,581.69,31.1,HQPM-4,95,"Punjab, Haryana, Delhi, West and Central UP, Bihar, Jharkhand, Orissa, Eastern UP, Andhra Pradesh, Karnataka, Tamilnadu, Maharashtra, Rajasthan, Madhya Pradesh, Gujarat and Chhattisgarh under Kharif Season."
+Maize,Karnataka,13792.85,20671.54,581.69,31.1,MCH 36 (Hybrid) (DKC 9099),99,"Karnataka, Tamil Nadu and Maharashtra in Kharif season under irrigated and rainfed conditions."
+Maize,Karnataka,13792.85,20671.54,581.69,31.1,DHM 119 (BH 4062),NotSpecified,"Andhra Pradesh, Maharashtra, Tamil Nadu and Karnataka in Kharif season."
+Maize,Karnataka,13792.85,20671.54,581.69,31.1,PMH 4 (JH 31153),NotSpecified,"Punjab, Haryana, Delhi and western Uttar Pradesh under irrigated condition."
+Maize,Karnataka,13792.85,20671.54,581.69,31.1,PMH 5 (JH 3110),NotSpecified,"Rajasthan, Madhya Pradesh, Gujarat and Chhattisgarh in Kharif season under both irrigated and rainfed condition."
+Maize,Rajasthan,14421.46,19810.29,658.77,23.56,HSC1,80-82,Himachal Pradesh and Uttarakhand under Kharif season.
+Maize,Rajasthan,14421.46,19810.29,658.77,23.56,HQPM-4,95,"Punjab, Haryana, Delhi, West and Central UP, Bihar, Jharkhand, Orissa, Eastern UP, Andhra Pradesh, Karnataka, Tamilnadu, Maharashtra, Rajasthan, Madhya Pradesh, Gujarat and Chhattisgarh under Kharif Season."
+Maize,Rajasthan,14421.46,19810.29,658.77,23.56,MCH 36 (Hybrid) (DKC 9099),99,"Karnataka, Tamil Nadu and Maharashtra in Kharif season under irrigated and rainfed conditions."
+Maize,Rajasthan,14421.46,19810.29,658.77,23.56,DHM 119 (BH 4062),NotSpecified,"Andhra Pradesh, Maharashtra, Tamil Nadu and Karnataka in Kharif season."
+Maize,Rajasthan,14421.46,19810.29,658.77,23.56,PMH 4 (JH 31153),NotSpecified,"Punjab, Haryana, Delhi and western Uttar Pradesh under irrigated condition."
+Maize,Rajasthan,14421.46,19810.29,658.77,23.56,PMH 5 (JH 3110),NotSpecified,"Rajasthan, Madhya Pradesh, Gujarat and Chhattisgarh in Kharif season under both irrigated and rainfed condition."
+Maize,Uttar Pradesh,15635.43,21045.11,1387.36,13.7,HSC1,80-82,Himachal Pradesh and Uttarakhand under Kharif season.
+Maize,Uttar Pradesh,15635.43,21045.11,1387.36,13.7,HQPM-4,95,"Punjab, Haryana, Delhi, West and Central UP, Bihar, Jharkhand, Orissa, Eastern UP, Andhra Pradesh, Karnataka, Tamilnadu, Maharashtra, Rajasthan, Madhya Pradesh, Gujarat and Chhattisgarh under Kharif Season."
+Maize,Uttar Pradesh,15635.43,21045.11,1387.36,13.7,MCH 36 (Hybrid) (DKC 9099),99,"Karnataka, Tamil Nadu and Maharashtra in Kharif season under irrigated and rainfed conditions."
+Maize,Uttar Pradesh,15635.43,21045.11,1387.36,13.7,DHM 119 (BH 4062),NotSpecified,"Andhra Pradesh, Maharashtra, Tamil Nadu and Karnataka in Kharif season."
+Maize,Uttar Pradesh,15635.43,21045.11,1387.36,13.7,PMH 4 (JH 31153),NotSpecified,"Punjab, Haryana, Delhi and western Uttar Pradesh under irrigated condition."
+Maize,Uttar Pradesh,15635.43,21045.11,1387.36,13.7,PMH 5 (JH 3110),NotSpecified,"Rajasthan, Madhya Pradesh, Gujarat and Chhattisgarh in Kharif season under both irrigated and rainfed condition."
+Maize,Andhra Pradesh,25687.09,37801.85,840.58,42.68,HSC1,80-82,Himachal Pradesh and Uttarakhand under Kharif season.
+Maize,Andhra Pradesh,25687.09,37801.85,840.58,42.68,HQPM-4,95,"Punjab, Haryana, Delhi, West and Central UP, Bihar, Jharkhand, Orissa, Eastern UP, Andhra Pradesh, Karnataka, Tamilnadu, Maharashtra, Rajasthan, Madhya Pradesh, Gujarat and Chhattisgarh under Kharif Season."
+Maize,Andhra Pradesh,25687.09,37801.85,840.58,42.68,MCH 36 (Hybrid) (DKC 9099),99,"Karnataka, Tamil Nadu and Maharashtra in Kharif season under irrigated and rainfed conditions."
+Maize,Andhra Pradesh,25687.09,37801.85,840.58,42.68,DHM 119 (BH 4062),NotSpecified,"Andhra Pradesh, Maharashtra, Tamil Nadu and Karnataka in Kharif season."
+Maize,Andhra Pradesh,25687.09,37801.85,840.58,42.68,PMH 4 (JH 31153),NotSpecified,"Punjab, Haryana, Delhi and western Uttar Pradesh under irrigated condition."
+Maize,Andhra Pradesh,25687.09,37801.85,840.58,42.68,PMH 5 (JH 3110),NotSpecified,"Rajasthan, Madhya Pradesh, Gujarat and Chhattisgarh in Kharif season under both irrigated and rainfed condition."
+Mungbean,Orissa,5483.54,8266.98,2614.14,3.01,PKV AKM-4 (AKM-9904),NotSpecified,"Karnataka, Tamil Nadu and Orissa in Kharif season."
+Mungbean,Rajasthan,6204.23,9165.59,2068.67,4.05,PKV AKM-4 (AKM-9904),NotSpecified,"Karnataka, Tamil Nadu and Orissa in Kharif season."
+Mungbean,Karnataka,6440.64,7868.64,5777.48,1.32,PKV AKM-4 (AKM-9904),NotSpecified,"Karnataka, Tamil Nadu and Orissa in Kharif season."
+Mungbean,Andhra Pradesh,6684.18,13209.32,2228.97,5.9,PKV AKM-4 (AKM-9904),NotSpecified,"Karnataka, Tamil Nadu and Orissa in Kharif season."
+Mungbean,Maharashtra,10780.76,15371.45,2261.24,6.7,PKV AKM-4 (AKM-9904),NotSpecified,"Karnataka, Tamil Nadu and Orissa in Kharif season."
+Paddy,Uttar Pradesh,17022.0,28144.5,732.62,36.61,Chinsurah Rice (IET 19140),Medium,"Andhra Pradesh, Tamil Nadu, Gujarat, Orissa, and West Bengal under irrigated conditions. "
+Paddy,Uttar Pradesh,17022.0,28144.5,732.62,36.61,(CNI 383-5-11),NotSpecified,Unspecified
+Paddy,Uttar Pradesh,17022.0,28144.5,732.62,36.61,IGKVR-1 (IET 19569),Mid-early,"Chhattisgarh, Madhya Pradesh and Orissa under  both irrigated and rainfed conditions."
+Paddy,Uttar Pradesh,17022.0,28144.5,732.62,36.61,IGKVR-2 (IET 19795),Medium,"Chhattisgarh, Bihar and Orissa under  both irrigated and rainfed conditions."
+Paddy,Uttar Pradesh,17022.0,28144.5,732.62,36.61,CR Dhan 401 (REETA),145-150,"Orissa, West Bengal, Tamil Nadu and Andhra Pradesh under irrigated late sown conditions as well as shallow rainfed lowland."
+Paddy,Uttar Pradesh,17022.0,28144.5,732.62,36.61,CR Dhan 601 (IET 18558),160,"Boro Area of Orissa, West Bengal and Assam."
+Paddy,Uttar Pradesh,17022.0,28144.5,732.62,36.61,CR Dhan 501 (IET 19189),152,Semi deep water condition of Uttar Pradesh and Assam.
+Paddy,Uttar Pradesh,17022.0,28144.5,732.62,36.61,RC Maniphou 11 (IET 20193),132-135,Terraced area of Meghalaya and Manipur hills both under irrigated and rainfed condition.
+Paddy,Orissa,17478.05,25909.05,715.04,32.42,Chinsurah Rice (IET 19140),Medium,"Andhra Pradesh, Tamil Nadu, Gujarat, Orissa, and West Bengal under irrigated conditions. "
+Paddy,Orissa,17478.05,25909.05,715.04,32.42,(CNI 383-5-11),NotSpecified,Unspecified
+Paddy,Orissa,17478.05,25909.05,715.04,32.42,IGKVR-1 (IET 19569),Mid-early,"Chhattisgarh, Madhya Pradesh and Orissa under  both irrigated and rainfed conditions."
+Paddy,Orissa,17478.05,25909.05,715.04,32.42,IGKVR-2 (IET 19795),Medium,"Chhattisgarh, Bihar and Orissa under  both irrigated and rainfed conditions."
+Paddy,Orissa,17478.05,25909.05,715.04,32.42,CR Dhan 401 (REETA),145-150,"Orissa, West Bengal, Tamil Nadu and Andhra Pradesh under irrigated late sown conditions as well as shallow rainfed lowland."
+Paddy,Orissa,17478.05,25909.05,715.04,32.42,CR Dhan 601 (IET 18558),160,"Boro Area of Orissa, West Bengal and Assam."
+Paddy,Orissa,17478.05,25909.05,715.04,32.42,CR Dhan 501 (IET 19189),152,Semi deep water condition of Uttar Pradesh and Assam.
+Paddy,Orissa,17478.05,25909.05,715.04,32.42,RC Maniphou 11 (IET 20193),132-135,Terraced area of Meghalaya and Manipur hills both under irrigated and rainfed condition.
+Paddy,West Bengal,24731.06,33046.12,731.25,39.04,Chinsurah Rice (IET 19140),Medium,"Andhra Pradesh, Tamil Nadu, Gujarat, Orissa, and West Bengal under irrigated conditions. "
+Paddy,West Bengal,24731.06,33046.12,731.25,39.04,(CNI 383-5-11),NotSpecified,Unspecified
+Paddy,West Bengal,24731.06,33046.12,731.25,39.04,IGKVR-1 (IET 19569),Mid-early,"Chhattisgarh, Madhya Pradesh and Orissa under  both irrigated and rainfed conditions."
+Paddy,West Bengal,24731.06,33046.12,731.25,39.04,IGKVR-2 (IET 19795),Medium,"Chhattisgarh, Bihar and Orissa under  both irrigated and rainfed conditions."
+Paddy,West Bengal,24731.06,33046.12,731.25,39.04,CR Dhan 401 (REETA),145-150,"Orissa, West Bengal, Tamil Nadu and Andhra Pradesh under irrigated late sown conditions as well as shallow rainfed lowland."
+Paddy,West Bengal,24731.06,33046.12,731.25,39.04,CR Dhan 601 (IET 18558),160,"Boro Area of Orissa, West Bengal and Assam."
+Paddy,West Bengal,24731.06,33046.12,731.25,39.04,CR Dhan 501 (IET 19189),152,Semi deep water condition of Uttar Pradesh and Assam.
+Paddy,West Bengal,24731.06,33046.12,731.25,39.04,RC Maniphou 11 (IET 20193),132-135,Terraced area of Meghalaya and Manipur hills both under irrigated and rainfed condition.
+Paddy,Punjab,25154.75,45291.24,669.86,67.41,Chinsurah Rice (IET 19140),Medium,"Andhra Pradesh, Tamil Nadu, Gujarat, Orissa, and West Bengal under irrigated conditions. "
+Paddy,Punjab,25154.75,45291.24,669.86,67.41,(CNI 383-5-11),NotSpecified,Unspecified
+Paddy,Punjab,25154.75,45291.24,669.86,67.41,IGKVR-1 (IET 19569),Mid-early,"Chhattisgarh, Madhya Pradesh and Orissa under  both irrigated and rainfed conditions."
+Paddy,Punjab,25154.75,45291.24,669.86,67.41,IGKVR-2 (IET 19795),Medium,"Chhattisgarh, Bihar and Orissa under  both irrigated and rainfed conditions."
+Paddy,Punjab,25154.75,45291.24,669.86,67.41,CR Dhan 401 (REETA),145-150,"Orissa, West Bengal, Tamil Nadu and Andhra Pradesh under irrigated late sown conditions as well as shallow rainfed lowland."
+Paddy,Punjab,25154.75,45291.24,669.86,67.41,CR Dhan 601 (IET 18558),160,"Boro Area of Orissa, West Bengal and Assam."
+Paddy,Punjab,25154.75,45291.24,669.86,67.41,CR Dhan 501 (IET 19189),152,Semi deep water condition of Uttar Pradesh and Assam.
+Paddy,Punjab,25154.75,45291.24,669.86,67.41,RC Maniphou 11 (IET 20193),132-135,Terraced area of Meghalaya and Manipur hills both under irrigated and rainfed condition.
+Paddy,Andhra Pradesh,29664.84,46450.2,789.9,56.0,Chinsurah Rice (IET 19140),Medium,"Andhra Pradesh, Tamil Nadu, Gujarat, Orissa, and West Bengal under irrigated conditions. "
+Paddy,Andhra Pradesh,29664.84,46450.2,789.9,56.0,(CNI 383-5-11),NotSpecified,Unspecified
+Paddy,Andhra Pradesh,29664.84,46450.2,789.9,56.0,IGKVR-1 (IET 19569),Mid-early,"Chhattisgarh, Madhya Pradesh and Orissa under  both irrigated and rainfed conditions."
+Paddy,Andhra Pradesh,29664.84,46450.2,789.9,56.0,IGKVR-2 (IET 19795),Medium,"Chhattisgarh, Bihar and Orissa under  both irrigated and rainfed conditions."
+Paddy,Andhra Pradesh,29664.84,46450.2,789.9,56.0,CR Dhan 401 (REETA),145-150,"Orissa, West Bengal, Tamil Nadu and Andhra Pradesh under irrigated late sown conditions as well as shallow rainfed lowland."
+Paddy,Andhra Pradesh,29664.84,46450.2,789.9,56.0,CR Dhan 601 (IET 18558),160,"Boro Area of Orissa, West Bengal and Assam."
+Paddy,Andhra Pradesh,29664.84,46450.2,789.9,56.0,CR Dhan 501 (IET 19189),152,Semi deep water condition of Uttar Pradesh and Assam.
+Paddy,Andhra Pradesh,29664.84,46450.2,789.9,56.0,RC Maniphou 11 (IET 20193),132-135,Terraced area of Meghalaya and Manipur hills both under irrigated and rainfed condition.
+Indian Mustard,Madhya Pradesh,8686.43,17705.93,1279.6,12.94,DRMR 601 (NRCDR 601),144,"Rajasthan, Haryana, Punjab, Delhi and Jammu & Kashmir under timely sown irrigated condition."
+Indian Mustard,Madhya Pradesh,8686.43,17705.93,1279.6,12.94,Pusa Mustard 26 (NPJ-113),NotSpecified,"Plains of Jammu & Kashmir, Punjab, Haryana, Rajasthan, Delhi and Western Uttar Pradesh in multiple cropping systems."
+Indian Mustard,Madhya Pradesh,8686.43,17705.93,1279.6,12.94,Pusa Mustard 27 (EJ-17),NotSpecified,"Uttar Pradesh, Madhya Pradesh, Uttarakhand and Kota region of Rajasthan in multiple cropping systems."
+Indian Mustard,Madhya Pradesh,8686.43,17705.93,1279.6,12.94,CORAL 432 (PAC 432)(Hybrid),130,"Uttar Pradesh, Madhya Pradesh, Rajasthan and Uttarakhand under timely sown irrigated condition"
+Indian Mustard,Rajasthan,11385.7,19259.84,1341.29,13.54,DRMR 601 (NRCDR 601),144,"Rajasthan, Haryana, Punjab, Delhi and Jammu & Kashmir under timely sown irrigated condition."
+Indian Mustard,Rajasthan,11385.7,19259.84,1341.29,13.54,Pusa Mustard 26 (NPJ-113),NotSpecified,"Plains of Jammu & Kashmir, Punjab, Haryana, Rajasthan, Delhi and Western Uttar Pradesh in multiple cropping systems."
+Indian Mustard,Rajasthan,11385.7,19259.84,1341.29,13.54,Pusa Mustard 27 (EJ-17),NotSpecified,"Uttar Pradesh, Madhya Pradesh, Uttarakhand and Kota region of Rajasthan in multiple cropping systems."
+Indian Mustard,Rajasthan,11385.7,19259.84,1341.29,13.54,CORAL 432 (PAC 432)(Hybrid),130,"Uttar Pradesh, Madhya Pradesh, Rajasthan and Uttarakhand under timely sown irrigated condition"
+Indian Mustard,Uttar Pradesh,12774.41,22560.3,1595.56,13.57,DRMR 601 (NRCDR 601),144,"Rajasthan, Haryana, Punjab, Delhi and Jammu & Kashmir under timely sown irrigated condition."
+Indian Mustard,Uttar Pradesh,12774.41,22560.3,1595.56,13.57,Pusa Mustard 26 (NPJ-113),NotSpecified,"Plains of Jammu & Kashmir, Punjab, Haryana, Rajasthan, Delhi and Western Uttar Pradesh in multiple cropping systems."
+Indian Mustard,Uttar Pradesh,12774.41,22560.3,1595.56,13.57,Pusa Mustard 27 (EJ-17),NotSpecified,"Uttar Pradesh, Madhya Pradesh, Uttarakhand and Kota region of Rajasthan in multiple cropping systems."
+Indian Mustard,Uttar Pradesh,12774.41,22560.3,1595.56,13.57,CORAL 432 (PAC 432)(Hybrid),130,"Uttar Pradesh, Madhya Pradesh, Rajasthan and Uttarakhand under timely sown irrigated condition"
+Indian Mustard,Gujarat,13740.64,19083.55,1610.4,11.61,DRMR 601 (NRCDR 601),144,"Rajasthan, Haryana, Punjab, Delhi and Jammu & Kashmir under timely sown irrigated condition."
+Indian Mustard,Gujarat,13740.64,19083.55,1610.4,11.61,Pusa Mustard 26 (NPJ-113),NotSpecified,"Plains of Jammu & Kashmir, Punjab, Haryana, Rajasthan, Delhi and Western Uttar Pradesh in multiple cropping systems."
+Indian Mustard,Gujarat,13740.64,19083.55,1610.4,11.61,Pusa Mustard 27 (EJ-17),NotSpecified,"Uttar Pradesh, Madhya Pradesh, Uttarakhand and Kota region of Rajasthan in multiple cropping systems."
+Indian Mustard,Gujarat,13740.64,19083.55,1610.4,11.61,CORAL 432 (PAC 432)(Hybrid),130,"Uttar Pradesh, Madhya Pradesh, Rajasthan and Uttarakhand under timely sown irrigated condition"
+Indian Mustard,Haryana,14715.27,27507.54,1251.12,19.94,DRMR 601 (NRCDR 601),144,"Rajasthan, Haryana, Punjab, Delhi and Jammu & Kashmir under timely sown irrigated condition."
+Indian Mustard,Haryana,14715.27,27507.54,1251.12,19.94,Pusa Mustard 26 (NPJ-113),NotSpecified,"Plains of Jammu & Kashmir, Punjab, Haryana, Rajasthan, Delhi and Western Uttar Pradesh in multiple cropping systems."
+Indian Mustard,Haryana,14715.27,27507.54,1251.12,19.94,Pusa Mustard 27 (EJ-17),NotSpecified,"Uttar Pradesh, Madhya Pradesh, Uttarakhand and Kota region of Rajasthan in multiple cropping systems."
+Indian Mustard,Haryana,14715.27,27507.54,1251.12,19.94,CORAL 432 (PAC 432)(Hybrid),130,"Uttar Pradesh, Madhya Pradesh, Rajasthan and Uttarakhand under timely sown irrigated condition"
+Sugarcane,Uttar Pradesh,24538.32,45239.51,93.64,448.89,Karan 6 (Co 0239),NotSpecified,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+Sugarcane,Uttar Pradesh,24538.32,45239.51,93.64,448.89,Karan 5 (Co 0124),NotSpecified,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+Sugarcane,Uttar Pradesh,24538.32,45239.51,93.64,448.89,Co-0218,360,"Tamil Nadu, Karnataka, Maharashtra, Kerala, Interior Andhra Pradesh."
+Sugarcane,Karnataka,55655.44,86765.77,86.53,986.21,Karan 6 (Co 0239),NotSpecified,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+Sugarcane,Karnataka,55655.44,86765.77,86.53,986.21,Karan 5 (Co 0124),NotSpecified,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+Sugarcane,Karnataka,55655.44,86765.77,86.53,986.21,Co-0218,360,"Tamil Nadu, Karnataka, Maharashtra, Kerala, Interior Andhra Pradesh."
+Sugarcane,Andhra Pradesh,56621.16,91442.63,119.72,757.92,Karan 6 (Co 0239),NotSpecified,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+Sugarcane,Andhra Pradesh,56621.16,91442.63,119.72,757.92,Karan 5 (Co 0124),NotSpecified,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+Sugarcane,Andhra Pradesh,56621.16,91442.63,119.72,757.92,Co-0218,360,"Tamil Nadu, Karnataka, Maharashtra, Kerala, Interior Andhra Pradesh."
+Sugarcane,Maharashtra,57673.6,85801.95,107.56,744.01,Karan 6 (Co 0239),NotSpecified,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+Sugarcane,Maharashtra,57673.6,85801.95,107.56,744.01,Karan 5 (Co 0124),NotSpecified,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+Sugarcane,Maharashtra,57673.6,85801.95,107.56,744.01,Co-0218,360,"Tamil Nadu, Karnataka, Maharashtra, Kerala, Interior Andhra Pradesh."
+Sugarcane,Tamil Nadu,66335.06,89025.27,85.79,1015.45,Karan 6 (Co 0239),NotSpecified,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+Sugarcane,Tamil Nadu,66335.06,89025.27,85.79,1015.45,Karan 5 (Co 0124),NotSpecified,"Punjab, Haryana, Rajasthan, Uttarakhand, Central and Western Uttar Pradesh."
+Sugarcane,Tamil Nadu,66335.06,89025.27,85.79,1015.45,Co-0218,360,"Tamil Nadu, Karnataka, Maharashtra, Kerala, Interior Andhra Pradesh."
+Wheat,Madhya Pradesh,12464.4,22489.75,810.25,23.59,MPO(JW)  1215 (MPO 1215),120,"Madhya Pradesh, Chhattisgarh, Gujarat and Rajasthan (Kota and Udaipur Division only) under timely sown irrigated condition."
+Wheat,Madhya Pradesh,12464.4,22489.75,810.25,23.59,MACS 6222,108,"Maharashtra, Karnataka, Andhra Pradesh and Tamil Nadu under timely sown irrigated condition."
+Wheat,Madhya Pradesh,12464.4,22489.75,810.25,23.59,PDW 314,169,"Punjab, Haryana, Western Uttar Pradesh, Delhi, Rajasthan (Excluding Kota & Udaipur Divisions), Tarai Regions of Uttarakhand, Paonta Valley & Una District of Himachal Pradesh under timely sown irrigated conditions."
+Wheat,Madhya Pradesh,12464.4,22489.75,810.25,23.59,DBW39,123,"Eastern Uttar Pradesh, Bihar, Jharkhand, West Bengal, Assam and Orissa under timely sown irrigated condition."
+Wheat,Madhya Pradesh,12464.4,22489.75,810.25,23.59,VL Gehun 907 (VL 907),167 irrigated   & 180 rainfed,"Himachal Pradesh,  Jammu & Kashmir, Uttarakhand and Sikkim under timely sown irrigated conditions."
+Wheat,Madhya Pradesh,12464.4,22489.75,810.25,23.59,Pusa Suketi  HS 507,NotSpecified,"Himachal Pradesh, Uttarakhand, Jammu and Kashmir and the North Eastern state under timely sown rainfed condition in lower and mid hills."
+Wheat,Madhya Pradesh,12464.4,22489.75,810.25,23.59,Pusa Prachi (HI 1563),NotSpecified,"Eastern Uttar Pradesh, Bihar, Jharkhand, West Bengal (except Hills), Orissa, Assam and the place of North Eastern states in late sown condition."
+Wheat,Madhya Pradesh,12464.4,22489.75,810.25,23.59,WHD 943,NotSpecified,"Punjab, Haryana, Delhi, Rajasthan (except Kota and Udaipur divisions), West Uttar Pradesh (except Jhansi Divisions) Jammu and Kathua districts of Jammu and Kashmir, Paonta valley and Una district of Himachal Pradesh, and tarai region of Uttarakhand."
+Wheat,Madhya Pradesh,12464.4,22489.75,810.25,23.59,Netravati  (NIAW 1415),NotSpecified,"Maharshtra, and Karnataka under rainfed condition and restricted irrigated condition."
+Wheat,Punjab,17945.58,35423.48,804.8,39.83,MPO(JW)  1215 (MPO 1215),120,"Madhya Pradesh, Chhattisgarh, Gujarat and Rajasthan (Kota and Udaipur Division only) under timely sown irrigated condition."
+Wheat,Punjab,17945.58,35423.48,804.8,39.83,MACS 6222,108,"Maharashtra, Karnataka, Andhra Pradesh and Tamil Nadu under timely sown irrigated condition."
+Wheat,Punjab,17945.58,35423.48,804.8,39.83,PDW 314,169,"Punjab, Haryana, Western Uttar Pradesh, Delhi, Rajasthan (Excluding Kota & Udaipur Divisions), Tarai Regions of Uttarakhand, Paonta Valley & Una District of Himachal Pradesh under timely sown irrigated conditions."
+Wheat,Punjab,17945.58,35423.48,804.8,39.83,DBW39,123,"Eastern Uttar Pradesh, Bihar, Jharkhand, West Bengal, Assam and Orissa under timely sown irrigated condition."
+Wheat,Punjab,17945.58,35423.48,804.8,39.83,VL Gehun 907 (VL 907),167 irrigated   & 180 rainfed,"Himachal Pradesh,  Jammu & Kashmir, Uttarakhand and Sikkim under timely sown irrigated conditions."
+Wheat,Punjab,17945.58,35423.48,804.8,39.83,Pusa Suketi  HS 507,NotSpecified,"Himachal Pradesh, Uttarakhand, Jammu and Kashmir and the North Eastern state under timely sown rainfed condition in lower and mid hills."
+Wheat,Punjab,17945.58,35423.48,804.8,39.83,Pusa Prachi (HI 1563),NotSpecified,"Eastern Uttar Pradesh, Bihar, Jharkhand, West Bengal (except Hills), Orissa, Assam and the place of North Eastern states in late sown condition."
+Wheat,Punjab,17945.58,35423.48,804.8,39.83,WHD 943,NotSpecified,"Punjab, Haryana, Delhi, Rajasthan (except Kota and Udaipur divisions), West Uttar Pradesh (except Jhansi Divisions) Jammu and Kathua districts of Jammu and Kashmir, Paonta valley and Una district of Himachal Pradesh, and tarai region of Uttarakhand."
+Wheat,Punjab,17945.58,35423.48,804.8,39.83,Netravati  (NIAW 1415),NotSpecified,"Maharshtra, and Karnataka under rainfed condition and restricted irrigated condition."
+Wheat,Uttar Pradesh,18979.38,31902.74,769.84,34.99,MPO(JW)  1215 (MPO 1215),120,"Madhya Pradesh, Chhattisgarh, Gujarat and Rajasthan (Kota and Udaipur Division only) under timely sown irrigated condition."
+Wheat,Uttar Pradesh,18979.38,31902.74,769.84,34.99,MACS 6222,108,"Maharashtra, Karnataka, Andhra Pradesh and Tamil Nadu under timely sown irrigated condition."
+Wheat,Uttar Pradesh,18979.38,31902.74,769.84,34.99,PDW 314,169,"Punjab, Haryana, Western Uttar Pradesh, Delhi, Rajasthan (Excluding Kota & Udaipur Divisions), Tarai Regions of Uttarakhand, Paonta Valley & Una District of Himachal Pradesh under timely sown irrigated conditions."
+Wheat,Uttar Pradesh,18979.38,31902.74,769.84,34.99,DBW39,123,"Eastern Uttar Pradesh, Bihar, Jharkhand, West Bengal, Assam and Orissa under timely sown irrigated condition."
+Wheat,Uttar Pradesh,18979.38,31902.74,769.84,34.99,VL Gehun 907 (VL 907),167 irrigated   & 180 rainfed,"Himachal Pradesh,  Jammu & Kashmir, Uttarakhand and Sikkim under timely sown irrigated conditions."
+Wheat,Uttar Pradesh,18979.38,31902.74,769.84,34.99,Pusa Suketi  HS 507,NotSpecified,"Himachal Pradesh, Uttarakhand, Jammu and Kashmir and the North Eastern state under timely sown rainfed condition in lower and mid hills."
+Wheat,Uttar Pradesh,18979.38,31902.74,769.84,34.99,Pusa Prachi (HI 1563),NotSpecified,"Eastern Uttar Pradesh, Bihar, Jharkhand, West Bengal (except Hills), Orissa, Assam and the place of North Eastern states in late sown condition."
+Wheat,Uttar Pradesh,18979.38,31902.74,769.84,34.99,WHD 943,NotSpecified,"Punjab, Haryana, Delhi, Rajasthan (except Kota and Udaipur divisions), West Uttar Pradesh (except Jhansi Divisions) Jammu and Kathua districts of Jammu and Kashmir, Paonta valley and Una district of Himachal Pradesh, and tarai region of Uttarakhand."
+Wheat,Uttar Pradesh,18979.38,31902.74,769.84,34.99,Netravati  (NIAW 1415),NotSpecified,"Maharshtra, and Karnataka under rainfed condition and restricted irrigated condition."
+Wheat,Rajasthan,19119.08,29876.36,683.58,37.19,MPO(JW)  1215 (MPO 1215),120,"Madhya Pradesh, Chhattisgarh, Gujarat and Rajasthan (Kota and Udaipur Division only) under timely sown irrigated condition."
+Wheat,Rajasthan,19119.08,29876.36,683.58,37.19,MACS 6222,108,"Maharashtra, Karnataka, Andhra Pradesh and Tamil Nadu under timely sown irrigated condition."
+Wheat,Rajasthan,19119.08,29876.36,683.58,37.19,PDW 314,169,"Punjab, Haryana, Western Uttar Pradesh, Delhi, Rajasthan (Excluding Kota & Udaipur Divisions), Tarai Regions of Uttarakhand, Paonta Valley & Una District of Himachal Pradesh under timely sown irrigated conditions."
+Wheat,Rajasthan,19119.08,29876.36,683.58,37.19,DBW39,123,"Eastern Uttar Pradesh, Bihar, Jharkhand, West Bengal, Assam and Orissa under timely sown irrigated condition."
+Wheat,Rajasthan,19119.08,29876.36,683.58,37.19,VL Gehun 907 (VL 907),167 irrigated   & 180 rainfed,"Himachal Pradesh,  Jammu & Kashmir, Uttarakhand and Sikkim under timely sown irrigated conditions."
+Wheat,Rajasthan,19119.08,29876.36,683.58,37.19,Pusa Suketi  HS 507,NotSpecified,"Himachal Pradesh, Uttarakhand, Jammu and Kashmir and the North Eastern state under timely sown rainfed condition in lower and mid hills."
+Wheat,Rajasthan,19119.08,29876.36,683.58,37.19,Pusa Prachi (HI 1563),NotSpecified,"Eastern Uttar Pradesh, Bihar, Jharkhand, West Bengal (except Hills), Orissa, Assam and the place of North Eastern states in late sown condition."
+Wheat,Rajasthan,19119.08,29876.36,683.58,37.19,WHD 943,NotSpecified,"Punjab, Haryana, Delhi, Rajasthan (except Kota and Udaipur divisions), West Uttar Pradesh (except Jhansi Divisions) Jammu and Kathua districts of Jammu and Kashmir, Paonta valley and Una district of Himachal Pradesh, and tarai region of Uttarakhand."
+Wheat,Rajasthan,19119.08,29876.36,683.58,37.19,Netravati  (NIAW 1415),NotSpecified,"Maharshtra, and Karnataka under rainfed condition and restricted irrigated condition."
